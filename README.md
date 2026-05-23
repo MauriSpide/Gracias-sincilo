@@ -915,7 +915,7 @@
                         <li><strong>Diseño de Arte:</strong> MauriSpide &amp; Co</li>
                         <li><strong>Distribución:</strong> LAIP.I Music Songs</li>
                         <li><strong>Sencillo:</strong> Primer lanzamiento</li>
-                        <li><strong>Agradecimiento:</strong> A ti, por creer en la música independiente.</li>
+                        <li><strong>Agradecimiento:</strong> A ti, por creer en la música independiente, a mi madre por inspirarme a estar aquí, a mis amigos HZH y YoshNefCR por prestar sus voces, a mi mejor amigo por inspirarme, a mi cuñado por jamás dejar que me rindiera, a mis hermanas por darme las fuerzas para continuar, a todo el hip-hop Mexicano y sobre todo, a mi gato, QEPD.</li>
                     </ul>
                 </div>
             </section>
